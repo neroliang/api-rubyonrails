@@ -1,0 +1,2 @@
+ 2015  gem install sinatra
+ 2016  ruby -rsinatra -e'set :public_folder, "."; set :port, 8000'
